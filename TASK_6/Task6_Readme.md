@@ -1,7 +1,7 @@
 
 #  Work-Stealing Thread Pool in C++
 
-This program demonstrates a **work-stealing thread pool** implementation using C++11 threads, mutexes, atomics, and queues.
+This program demonstrates a **work-stealing thread pool** implementation using C++ threads, mutexes, atomics, and queues.
 
  
 Description:
