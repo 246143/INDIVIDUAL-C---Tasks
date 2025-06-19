@@ -16,6 +16,8 @@ Description:
 
 # Implementation Overview
 
+x_new = x - f(x) / f'(x)
+
 # Polynomial Class
 
 ```cpp
