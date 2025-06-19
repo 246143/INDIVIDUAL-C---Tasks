@@ -43,6 +43,9 @@ and Run it in the platform that we are going to use.
 
 # Valid Operations
 
+Sample Output
+
+
 A + B;   // Matrix addition
 A - B;   // Matrix subtraction
 A * B;   // 2x2 * 2x2 = 2x2
