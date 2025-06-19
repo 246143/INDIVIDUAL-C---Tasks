@@ -7,11 +7,11 @@ This program performs numerical integration of the function **f(x) = x²** over 
 
 Description:
 
-rapezoidal Rule
+#rapezoidal Rule
 Approximates the integral by summing trapezoidal areas under the curve.
-Simpson's Rule
+# Simpson's Rule
 Uses a weighted sum to provide a more accurate estimate.
-Error Calculation
+#Error Calculation
 Compares each result with the approximate exact value 1.71828.
 Displays the difference to highlight accuracy.
 
